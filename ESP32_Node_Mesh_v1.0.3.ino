@@ -5,7 +5,7 @@
 #include <EEPROM.h>
 
 // MESH Details (Static)
-#define MESH_PREFIX   "INDOBOT_FS_ID"
+#define MESH_PREFIX   "INDOBOT_FSID"
 #define MESH_PASSWORD "somethingSneaky"
 #define MESH_PORT     5555
 
